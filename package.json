@@ -1,0 +1,22 @@
+{
+  "name": "constructor_word_guess",
+  "version": "1.0.0",
+  "description": "week 11 homework assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshazia/Constructor_Word_Guess.git"
+  },
+  "author": "shazia jiwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshazia/Constructor_Word_Guess/issues"
+  },
+  "homepage": "https://github.com/jshazia/Constructor_Word_Guess#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
